@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  supertokens:
+  - apiVersion: v2
+    appVersion: 3.14.0
+    created: "2023-07-27T23:48:13.84531+03:00"
+    description: SuperTokens Core Deployment
+    digest: d11fea4b27af6ee331a059c7292d66140d44a882304ea3fdb6256799265a11c8
+    name: supertokens
+    type: application
+    urls:
+    - supertokens-0.1.2.tgz
+    version: 0.1.2
+generated: "2023-07-27T23:48:13.844283+03:00"
